@@ -24,11 +24,11 @@
            .             ​ skyrix@archlinux 
           .c.           ┌───────────────────────────────┐ 
          .ccc.           ​ OS : SkyOS 
-        .lllll.          ​ Kernel : NERD-DEV 3.14 
+        .lllll.          ​ Kernel : NERD-DEV 7.0.9 
        ..;'olll.         ​ WM : Hyprland 
       .dolllcccl.        ​ Shell : bash
      .lcc'   'ccc.       ​ Uptime : 4 years
-    .ccc'     'cc:.      ​ CPU : NeuraCore AX-1
+    .ccc'     'cc:.      ​ CPU : NeuraCore SK-1
    .cccc'     'c:;..    └───────────────────────────────┘ 
   ."'             '".     火   S   K   Y   R   I   X   火 
 
