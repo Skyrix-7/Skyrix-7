@@ -30,7 +30,7 @@
      .lcc'   'ccc.       ​ Uptime : 4 years
     .ccc'     'cc:.      ​ CPU : NeuraCore AX-1
    .cccc'     'c:;..    └───────────────────────────────┘ 
-  ."'             '".     火   S   k   Y   R   I   X   火 
+  ."'             '".     火   S   K   Y   R   I   X   火 
 
 arch in ~ 
   λ echo "Stay Focused!"
