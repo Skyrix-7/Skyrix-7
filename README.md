@@ -20,6 +20,7 @@
 <p align="right"><strong><samp><i>」</i></samp></strong></p>
 
 ```
+[skyrix@archlinux ~]$ fastfetch
 
            .             ​ skyrix@archlinux 
           .c.           ┌───────────────────────────────┐ 
