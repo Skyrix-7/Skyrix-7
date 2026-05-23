@@ -24,7 +24,7 @@
 
            .             ​ skyrix@archlinux 
           .c.           ┌───────────────────────────────┐ 
-         .ccc.           ​ OS : SkyOS 
+         .ccc.           ​ OS : Arch Linux x86_64 
         .lllll.          ​ Kernel : NERD-DEV 7.0.9 
        ..;'olll.         ​ WM : Hyprland 
       .dolllcccl.        ​ Shell : bash
